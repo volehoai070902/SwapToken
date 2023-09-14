@@ -1,0 +1,42 @@
+.list-component{
+    display: flex;
+    height: 48;
+    align-items: center;
+    width: 300px;
+    justify-content: space-between;
+}
+.rootHeader{
+    display: flex;
+    height: 50px;
+    justify-content: space-between;
+    padding: 0 20px;
+}
+
+.connectButton{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    width: 300px;
+}
+
+.more{
+    height: 48px;
+}
+
+.headerSearch{
+    display: flex;
+    align-items: center;
+    width: 30%;
+    height: 50px;
+    border: 1px solid black;
+    border-radius: 10px;
+    border-color: #2222220d;
+}
+
+.headerSearch input{
+    outline: none;
+}
+
+.rgw6ez4cl {
+    color: #FC72FF;
+}
